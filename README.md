@@ -18,6 +18,9 @@
 [![llava_next-image_checkpoints](https://img.shields.io/badge/llava_next-image_checkpoints-blue)](https://huggingface.co/lmms-lab)
 
 ## Release Notes
+
+> **📢 Announcement:** The training pipeline in this repository is now considered **legacy**. For the latest training pipeline with support for **LLaVA-OneVision** and **LLaVA-OneVision-2**, please refer to [**lmms-engine**](https://github.com/EvolvingLMMs-Lab/lmms-engine).
+
 - **[2025/08/29] 🔥 LLaVA-Critic-R1** We release LLaVA-Critic-R1, a family of generative critic VLM trained through GRPO using pairwise critic data. LLaVA-Critic-R1 not only demonstrates strong critic capability, but also achieves state-of-the-art policy performance at the 7B scale. Refer to [LLaVA-Critic-R1](llava-critic-r1/EasyR1/README.md) for more training details.
 
   📄 **Explore more**:
